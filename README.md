@@ -6,6 +6,9 @@ author Saba hussain
     <li>
      find prime number
   </li> 
+    <li>
+      guess number game
+      <li/>
   <li>
    print triangle
   </li>
